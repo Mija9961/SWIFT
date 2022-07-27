@@ -1,4 +1,2 @@
-��#� �S�W�I�F�T�
-�
-�
+SWIFT
 Another Line added
